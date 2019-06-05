@@ -6,6 +6,7 @@
 [![Travis (.com) all](https://img.shields.io/travis/com/SysMedOs/epiLION/master.svg)](https://travis-ci.com/SysMedOs/epiLION)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/c02db70257b64538af60df36c480b042)](https://app.codacy.com/app/zhixu.ni/epiLION?utm_source=github.com&utm_medium=referral&utm_content=SysMedOs/epiLION&utm_campaign=Badge_Grade_Dashboard)
 ![GitHub last commit](https://img.shields.io/github/last-commit/SysMedOs/epiLION.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FZhixuNi%2FepiLION.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FZhixuNi%2FepiLION?ref=badge_shield)
 
 The epiLION project is aimed to provide a unified identifier for major lipids, especially oxidized lipids
 in the epilipidome.
@@ -148,6 +149,9 @@ in the epilipidome.
       In case you experienced any problems with running LipidHunter
 
       please report an issue in the [issue tracker](https://github.com/SysMedOs/epiLION/issues) or contact us.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FZhixuNi%2FepiLION.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FZhixuNi%2FepiLION?ref=badge_large)
 
 ### License
 
